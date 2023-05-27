@@ -1,0 +1,56 @@
+.contact{
+    background: #3b8d3e;
+    color:rgb(255, 255, 255);
+    border: white;
+}
+.contact:hover{
+    background-color:rgb(65, 218, 218);
+}
+body{
+    padding: 10px;
+
+    font-family: helvetica Neue, Helvetica;
+    margin: 10;
+    padding: 10;
+    color:rgb(255, 255, 255)
+}
+ul{
+    margin: 0%;
+    padding: 0%;
+}
+li{
+    margin: 20px;
+    display: inline-block;
+
+}
+footer{
+    position: fixed;
+    bottom: 0em;
+    width: 100%;
+    background: rgb(10, 25, 47);
+    padding: 10px 10px;
+    border: 10px, #3b8d3e;
+}
+#copy{
+    color: red;
+}
+
+a:active{
+    text-decoration: underline;
+    display: green;
+}
+.linkedin-button {
+    text-decoration: none;
+}
+
+.result-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+.pacmen-image {
+    width: 500px;
+    height: 500px;
+
+}
+
