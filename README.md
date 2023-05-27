@@ -7,6 +7,7 @@ Feel free to explore and learn more about my background.
 
 License Information:
 
-This project is open-source and is licensed under the [Open Source License]. 
+This project is open-source and is licensed under the [Open Source License]. However some of the project section is licensed under the MIT License. 
+
 
 
